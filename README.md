@@ -24,13 +24,13 @@ Este projeto é um aplicativo web que permite aos usuários pesquisar a temperat
 
 1. **Clone o Repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/clima-agora.git
+   git clone https://github.com/MayaraOliveir/ClimaApp-
    ```
 
 2. **Abra o Projeto**:
    - Navegue até a pasta do projeto:
      ```bash
-     cd clima-agora
+     cd App-Clima
      ```
    - Abra o arquivo `index.html` no seu navegador.
 
